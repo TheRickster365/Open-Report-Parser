@@ -147,6 +147,7 @@ $clear_token     = 0;
 $processInfo     = 0;
 $oauthuri        = '';
 $oauthclientid   = '';
+$imaptlsfolder   = '';
 
 # used in messages
 my $scriptname = 'Open Report Parser';
